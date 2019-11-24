@@ -1,4 +1,8 @@
 I am so cool
 You are so beautiful
+<<<<<<< HEAD
 Me
 
+=======
+You
+>>>>>>> dev
